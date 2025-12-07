@@ -505,7 +505,7 @@
       "plot": "../../../修正品20250923/",
       "pos_files": "",
       "specctra_dsn": "roba_L.dsn",
-      "step": "../../../balo43_L.stl",
+      "step": "../../../../../balo43_L.stl",
       "svg": "",
       "vrml": "roba_L.wrl"
     },
