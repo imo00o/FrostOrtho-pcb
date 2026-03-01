@@ -1,10 +1,2 @@
-# FrostOrtho
-
-## PCB
+# FrostOrtho-pcb
 roBaを参考に設計させていただきました。
-
-## ファームウェア
-https://github.com/imo00o/zmk-config-FrostOrtho
-
-## ケースデータ
-
