@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "roBa")(type "KiCad")(uri "C:/Users/runa_/Downloads/roBa-main/roBa-main/pcb/_kicad_footprints")(options "")(descr ""))
+)
