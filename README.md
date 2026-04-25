@@ -1,5 +1,4 @@
-# FrostOrtho-paw3222
-
+# FrostOrtho-pcb
 ## Credits
 このプロジェクトは、kuma_key氏による [roBa](https://github.com/kumamuk-git/roBa) の設計を元に作成・改変したものです。
 
