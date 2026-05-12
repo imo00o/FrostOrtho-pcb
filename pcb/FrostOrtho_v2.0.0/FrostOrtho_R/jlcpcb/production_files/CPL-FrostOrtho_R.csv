@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT1,BATT,JST_SH_SM02B-SRSS-TB,65.0,-63.5,180.0,bottom
+D1,D,Diode_SMD,73.174975,-38.0,0.0,bottom
+D10,D,Diode_SMD,107.471875,-55.0,0.0,bottom
+D11,D,Diode_SMD,107.648438,-72.0,0.0,bottom
+D12,D,Diode_SMD,107.648438,-89.0,0.0,bottom
+D13,D,Diode_SMD,124.648438,-38.0,0.0,bottom
+D14,D,Diode_SMD,124.648438,-55.0,0.0,bottom
+D15,D,Diode_SMD,124.648438,-72.0,0.0,bottom
+D16,D,Diode_SMD,124.648438,-89.0,0.0,bottom
+D17,D,Diode_SMD,141.648438,-38.0,0.0,bottom
+D18,D,Diode_SMD,141.648438,-55.0,0.0,bottom
+D19,D,Diode_SMD,141.648438,-72.0,0.0,bottom
+D2,D,Diode_SMD,73.348475,-55.0,0.0,bottom
+D20,D,Diode_SMD,141.648438,-89.0,0.0,bottom
+D3,D,Diode_SMD,73.548475,-72.0,0.0,bottom
+D4,D,Diode_SMD,73.548475,-89.0,0.0,bottom
+D5,D,Diode_SMD,90.648438,-38.0,0.0,bottom
+D6,D,Diode_SMD,90.648438,-55.0,0.0,bottom
+D7,D,Diode_SMD,90.648438,-72.0,0.0,bottom
+D8,D,Diode_SMD,90.648438,-89.0,0.0,bottom
+D9,D,Diode_SMD,107.648438,-38.0,0.0,bottom
+J2,Conn_01x06_Pin,ffc_connector_1_6_0.5mm,54.0,-62.725,0.0,bottom

@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "FrostOrtho_ftp")(type "KiCad")(uri "${KIPRJMOD}/FrostOrtho_ftp.pretty")(options "")(descr ""))
-)

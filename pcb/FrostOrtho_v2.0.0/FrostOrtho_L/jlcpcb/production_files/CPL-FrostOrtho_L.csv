@@ -1,0 +1,24 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+B1,BATT,JST_SH_SM02B-SRSS-TB,168.75,-105.25,0.0,bottom
+D1,D,Diode_SMD,94.351563,-68.5,0.0,bottom
+D10,D,Diode_SMD,128.851525,-85.25,0.0,bottom
+D11,D,Diode_SMD,128.851525,-102.25,0.0,bottom
+D12,D,Diode_SMD,128.851525,-119.25,0.0,bottom
+D13,D,Diode_SMD,145.851525,-68.25,0.0,bottom
+D14,D,Diode_SMD,145.851525,-85.25,0.0,bottom
+D15,D,Diode_SMD,145.851525,-102.25,0.0,bottom
+D16,D,Diode_SMD,145.851525,-119.25,0.0,bottom
+D17,D,Diode_SMD,162.851525,-68.25,0.0,bottom
+D18,D,Diode_SMD,162.851525,-85.25,0.0,bottom
+D19,D,Diode_SMD,162.851525,-102.225,0.0,bottom
+D2,D,Diode_SMD,94.351563,-85.25,0.0,bottom
+D20,D,Diode_SMD,162.851525,-119.25,0.0,bottom
+D21,D,Diode_SMD,179.325,-115.65,0.0,bottom
+D22,D,Diode_SMD,179.351525,-118.75,0.0,bottom
+D3,D,Diode_SMD,94.351563,-102.25,0.0,bottom
+D4,D,Diode_SMD,94.351563,-119.5,0.0,bottom
+D5,D,Diode_SMD,111.851525,-68.225,0.0,bottom
+D6,D,Diode_SMD,111.851525,-85.25,0.0,bottom
+D7,D,Diode_SMD,111.851525,-102.25,0.0,bottom
+D8,D,Diode_SMD,111.851525,-119.25,0.0,bottom
+D9,D,Diode_SMD,128.851525,-68.225,0.0,bottom
